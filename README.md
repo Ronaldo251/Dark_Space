@@ -7,7 +7,7 @@ Instruções para jogar:
 
 2 - Crie uma pasta com o nome "assets" no mesmo diretório onde salvou o arquivo "DarkInvaders.py"
 
-3 - Faça o download de todos os arquivos disponíveis na pasta assets e salve-os na sua pasta "assets" 
+3 - Faça o download de todos os arquivos disponíveis do link https://github.com/Ronaldo251/Dark_Space/tree/main/assets e salve-os na sua pasta "assets" 
 
 4 - Utilize uma IDE e inicie o programa.
 
